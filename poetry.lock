@@ -234,13 +234,13 @@ yaml = ["PyYAML (>=6.0,<7.0)"]
 
 [[package]]
 name = "cognite-toolkit"
-version = "0.3.0b1"
+version = "0.3.0b2"
 description = "Official Cognite Data Fusion tool for project templates and configuration deployment"
 optional = false
 python-versions = "<4.0,>=3.10"
 files = [
-    {file = "cognite_toolkit-0.3.0b1-py3-none-any.whl", hash = "sha256:c606c9b9862c90b0516ba1bcbfbc33ee875b4044cf5f05eec1615459753b4818"},
-    {file = "cognite_toolkit-0.3.0b1.tar.gz", hash = "sha256:c7b3acd0f0ed452e4f45c3007bf6c94667ec5a75e28458f02082d9c5903d6ab3"},
+    {file = "cognite_toolkit-0.3.0b2-py3-none-any.whl", hash = "sha256:d45b62bf9f6398c5047b52963cd1565779eb2232b51acf4fcf6b94d863f517c4"},
+    {file = "cognite_toolkit-0.3.0b2.tar.gz", hash = "sha256:ea215e7d50350731aff252a4a9573cc580f2b603fe2c504eecd500adcf224376"},
 ]
 
 [package.dependencies]
@@ -991,4 +991,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "4bc34b1b15156677f505d9571f430772f83bdbcc573381c55133ef55580b99e9"
+content-hash = "cbb4cb80b15f7083727aa21debbda5fb6dca937f00f32a6b3d8c4b16d138f1e7"

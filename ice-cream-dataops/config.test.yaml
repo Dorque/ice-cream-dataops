@@ -19,6 +19,8 @@ variables:
       IDP_SCOPES: https://westeurope-1.cognitedata.com/.default
       IDP_TOKEN_URL: ${IDP_TOKEN_URL} # replaced by .env
       # Groups
+      # OBJECT ID FOR TEST/PROD DATA DEVELOPER ENTRA GROUP
+      data_developer_source_id: abd1214c-484c-4e06-95bc-3f046d048664
       # OBJECT ID FOR TEST/PROD DATA PIPELINE OEE ENTRA GROUP
       data_pipeline_oee_source_id: 58e7c64d-35a4-46de-83b2-8b9d92162cc4
       # OBJECT ID FOR TEST/PROD ADMIN TK ENTRA GROUP
